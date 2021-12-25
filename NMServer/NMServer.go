@@ -68,7 +68,7 @@ func StartReadPacket(conn net.Conn) bool {
 }
 
 var pserver = flag.Bool("pserver", true, "a bool")
-var server = flag.String("server", "http://127.0.0.1/api/login", "a string")
+var server = flag.String("server", "http://localhost/vindi/api.php?c=login", "a string")
 var port = flag.Int("port", 47611, "an int")
 
 func main() {
