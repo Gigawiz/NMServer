@@ -1,7 +1,7 @@
 #Pewdictus Web API
 A collection of scripts and tools used for logging into vindictus private servers...
 
-# NMServer
+## NMServer
 This was originally created by [Ulkyome](https://github.com/ulkyome/NMServer). I've updated nmserver to work with my custom PHP api for anyone who wants to add some kind of web management to their vindictus private server.
 
 The server can be started without the startup parameters.
