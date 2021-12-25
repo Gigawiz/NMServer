@@ -1,4 +1,4 @@
-#Pewdictus Web API
+# Pewdictus Web API
 A collection of scripts and tools used for logging into vindictus private servers...
 
 ## NMServer
